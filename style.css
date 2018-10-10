@@ -22,3 +22,9 @@ h1 {
 .gallery img {
     width: 320px;
 }
+
+.sitemap a {
+    display:block;
+    text-align:center;
+    color:red;
+}
