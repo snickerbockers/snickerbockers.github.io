@@ -23,8 +23,11 @@ h1 {
     width: 320px;
 }
 
-.sitemap a {
-    display:block;
+p.sitemap {
     text-align:center;
+}
+
+p.sitemap>a {
+
     color:red;
 }
